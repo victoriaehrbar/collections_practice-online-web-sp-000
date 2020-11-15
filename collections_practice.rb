@@ -34,5 +34,7 @@ end
 end
 
 def sum_array(array)
-array.sum
+sum = 0
+array += elements
+sum
 end
