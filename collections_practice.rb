@@ -43,6 +43,4 @@ end
 
 def add_s(array)
   for(i=0; i<3; i++ {word + "s"}
-
-end
 end
