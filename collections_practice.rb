@@ -40,3 +40,6 @@ sum += elements
 end
 sum
 end
+
+def add_s(array)
+end
