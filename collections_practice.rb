@@ -43,5 +43,6 @@ end
 
 def add_s(array)
   array.collect do |word|
+    for i in array do
    word + "s"
 end
